@@ -1,7 +1,7 @@
 # easy-react-template
 static files for clone
 
-## templates:
+### templates:
 - react-component
 - react-container
 
